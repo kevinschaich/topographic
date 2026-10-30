@@ -2,5 +2,7 @@
     "slug": "topographic",
     "name": "Topographic",
     "tagline": "Make beautiful maps from your data, all locally",
-    "icon": "layers"
+    "icon": "layers",
+    "url": "https://topographic-two.vercel.app",
+    "screenshot": "screenshot.jpg"
 }
