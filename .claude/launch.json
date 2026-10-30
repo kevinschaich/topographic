@@ -1,0 +1,4 @@
+{
+    "version": "0.0.1",
+    "configurations": [{ "name": "topographic", "runtimeExecutable": "bun", "runtimeArgs": ["dev", "--port", "5182", "--strictPort"], "port": 5182 }]
+}
